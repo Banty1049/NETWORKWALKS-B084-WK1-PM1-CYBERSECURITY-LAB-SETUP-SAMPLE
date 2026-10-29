@@ -67,8 +67,6 @@ It can be used for activities such as:
 
 ## 🏗️ Lab Architecture
 
-![](1-screenshot-title-image.png)
-
 
 Additional target machines can be added to the same virtual network in future projects.
 
@@ -90,3 +88,5 @@ Additional target machines can be added to the same virtual network in future pr
 | 🚪 Default Gateway | 10.0.0.1           |
 | 🌍 DNS Server      | 8.8.8.8            |
 | 🔮 Future VM Range | 10.0.0.3–10.0.0.99 |
+
+![](1-screenshot-title-image.png)
