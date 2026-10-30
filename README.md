@@ -89,4 +89,5 @@ Additional target machines can be added to the same virtual network in future pr
 | 🌍 DNS Server      | 8.8.8.8            |
 | 🔮 Future VM Range | 10.0.0.3–10.0.0.99 |
 
+<img width="1600" height="900" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/1362311b-e522-4197-80bd-3a5d92fb15e7" />
 
